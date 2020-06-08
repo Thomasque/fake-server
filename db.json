@@ -1,5 +1,60 @@
+"produits" : 
+[
+{	
+	"_id": 1,
+	"name":"Crème Rénergie multi-lift ultra",
+	"price":"88.50",
+	"icon":"https://fr.vecteezy.com/art-vectoriel/583639-vecteur-icone-creme-visage",
+	"videoLink":"",
+	"type":"Crème visage",
+	"brand":"Rajeunir",
+	"description":"Crème anti-rides, fermeté et uniformité du teint",
+	"label":"Nouveauté",
+	"relatedProducts":["2"],
+	"additionalInformation":""
+
+},
 {
-	"_id": "5",
+	"_id": 2,
+	"name":"Rénergie yeux multi-glow",
+	"price":"49.50",
+	"icon":"https://fr.vecteezy.com/art-vectoriel/583639-vecteur-icone-creme-visage",
+	"videoLink":"",
+	"type":"Crème visage",
+	"brand":"Rajeunir",
+	"description":"Les laboratoires Lancôme présentent la première crème contour des yeux spécifiquement conçue pour les peaux matures. Enrichie en extraits de baie rouge de Schizandra et de graines de Lin, sa formule fortifiante lisse les ridules et raffermit le contour des yeux au fur et à mesure des applications. Sa teinte beige rosée naturelle illumine le regard pour une peau éclatante de fraîcheur",
+	"label":"Nouveauté",
+	"relatedProducts":["1"],
+	"additionalInformation":""
+},
+{
+	"_id": 3,
+	"name":"Le vernis",
+	"price":"22.50",
+	"icon":"https://www.istockphoto.com/fr/vectoriel/ic%C3%B4ne-de-vernis-%C3%A0-ongles-gm834524448-135702283",
+	"videoLink":"",
+	"type":"Vernis à ongles",
+	"brand":"Sublimé",
+	"description":"Dans l'esprit résolument versatile de la collection, 4 teintes de vernis viennent compléter ces looks: un nude soft, un gris foncé un brun capuccino et un rose hibiscus. Toujours avec la formule de vernis incomparable de Lancôme, ultra-résistante, facile à appliquer et démesurément brillante.",
+	"label":"Edition Limitée",
+	"relatedProducts":["4"],
+	"additionalInformation":""
+},
+{
+	"_id": 4,
+	"name":"Le vernis top coat",
+	"price":"22.50",
+	"icon":"https://www.istockphoto.com/fr/vectoriel/ic%C3%B4ne-de-vernis-%C3%A0-ongles-gm834524448-135702283",
+	"videoLink":"",
+	"type":"Vernis",
+	"brand":"Sublimé",
+	"description":"Sublimez votre manucure avec Le Vernis Top Coat ! Appliqué sur Le Vernis, sa formule unique à séchage ultra-rapide protège la couleur et prolonge la tenue. Le secret d'une manucure parfaite aux couleurs intenses !",
+	"label":"Top vente",
+	"relatedProducts":["3"],
+	"additionalInformation":""
+},	
+{
+	"_id": 5,
 	"name":"L'abosulu mademoiselle balm",
 	"price":"30.50",
 	"icon":"https://icon-icons.com/fr/icone/rouge-%C3%A0-l%C3%A8vres/85889",
@@ -10,4 +65,18 @@
 	"label":"Nouveauté",
 	"relatedProducts":["6"],
 	"additionalInformation":""
+},
+{
+	"_id": 6,
+	"name":"L'absolu mademoiselle shine",
+	"price":"30.50",
+	"icon":"https://icon-icons.com/fr/icone/rouge-%C3%A0-l%C3%A8vres/85889",
+	"videoLink":"",
+	"type":"Rouge à levres",
+	"brand":"Attiré",
+	"description":"Dictez vos propres règles et refusez les conventions. Soyez fière d'être une Mademoiselle avec le nouveau rouge à lèvres L'Absolu Mademoiselle Shine. Sa formule baume enrichie en Proxylane et en huile de rose glisse sur vos lèvres et booste votre French appeal. Démarquez-vous grâce à son fini brillant et lumineux pour un éclat intense. Vos lèvres sont à croquer : douces, hydratées et apaisées jour après jour. L'application est facile et sans effort, le confort absolu.",
+	"label":"Nouveauté",
+	"relatedProducts":["5"],
+	"additionalInformation":""
 }
+];
