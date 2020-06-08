@@ -1,0 +1,13 @@
+{
+	"_id": "5",
+	"name":"L'abosulu mademoiselle balm",
+	"price":"30.50",
+	"icon":"https://icon-icons.com/fr/icone/rouge-%C3%A0-l%C3%A8vres/85889",
+	"videoLink":"",
+	"type":"Rouge à levres",
+	"brand":"Attiré",
+	"description":"Découvrez le nouveau baume à lèvres teinté hydratant à l'effet repulpant instantané, pour rendre vos lèvres encore plus craquantes.Sa texture fondante glisse sur vos lèvres et leur apporte fraîcheur et hydratation. Grâce à sa formule enrichie en huiles de macadamia et extrait de menthe poivrée, combiné à son effet repulpant, vos lèvres seront à croquer ! Disponible en 9 teintes acidulées, craquez pour son fini brillant et sa couvrance légère à intense.",
+	"label":"Nouveauté",
+	"relatedProducts":["6"],
+	"additionalInformation":""
+}
