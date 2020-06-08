@@ -1,4 +1,3 @@
-"produits" : 
 [
 {	
 	"_id": 1,
@@ -79,4 +78,4 @@
 	"relatedProducts":["5"],
 	"additionalInformation":""
 }
-];
+]
