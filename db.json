@@ -4,14 +4,7 @@
 	"name":"Crème Rénergie multi-lift ultra",
 	"price":"88.50",
 	"icon":"https://fr.vecteezy.com/art-vectoriel/583639-vecteur-icone-creme-visage",
-	"videoLink":"",
-	"type":"Crème visage",
-	"brand":"Rajeunir",
-	"description":"Crème anti-rides, fermeté et uniformité du teint",
-	"label":"Nouveauté",
 	"relatedProducts":["2"],
-	"additionalInformation":""
-
 },
 {
 	"_id": 2,
